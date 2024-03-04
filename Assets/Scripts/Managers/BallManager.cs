@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BallManager : MonoBehaviour
 {
-    public Vector3 initialPosition = new(0, 2.72f, 4.23f);
+    public Vector3 initialPosition = new(-4.3f, 4.204f, 5.24f);
     // Start is called before the first frame update
     void Start()
     {
